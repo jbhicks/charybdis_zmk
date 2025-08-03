@@ -56,7 +56,7 @@ layers:
   - BACK SPACE
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
-  - (ZMK HID USAGE(HID USAGE KEY, HID USAGE KEY KEYBOARD 0 AND RIGHT PARENTHESIS))
+  - ENTER
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
