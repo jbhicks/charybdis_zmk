@@ -713,3 +713,5 @@ combos:
   k: M CLK
 - p: [24, 25]
   k: CAPSLOCK
+- p: [25, 26]
+  k: '&zmk_studio_unlock'
