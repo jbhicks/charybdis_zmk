@@ -51,12 +51,12 @@ layers:
   - RSHIFT
   - LEFT SHIFT
   - SPACE
-  - {t: LEFT GUI, h: NUMBERS}
+  - NUMBERS
   - {t: ENTER, h: NUMBERS}
   - BACK SPACE
   - R CLK
   - L CLK
-  - NAV-FUN
+  - RMETA
   NUMBERS:
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
@@ -170,7 +170,7 @@ layers:
   - PRINT SCREEN
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
-  - {type: held}
+  - {t: ▽, type: trans}
   MAC:
   - ESCAPE
   - '1'
