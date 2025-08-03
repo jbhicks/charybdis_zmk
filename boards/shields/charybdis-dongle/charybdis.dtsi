@@ -7,7 +7,7 @@
         zmk,matrix_transform = &default_transform;
     };
 
-    // ZMK Studio
+    // ZMK Studio configuration (for BT builds with Studio support)
     // chosen {
     //     zmk,kscan = &kscan0;
     //     zmk,physical-layout = &charybdis_physical_layout;
